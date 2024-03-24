@@ -1,1 +1,1 @@
-A range of functions designed to pull in financial data.  Most functions will either output to excel via [xlsxwriter](https://xlsxwriter.readthedocs.io/) or control Excel via [XLwings](https://www.xlwings.org/).
+A range of functions designed to pull in financial data.  Most functions will either output to excel via [xlsxwriter](https://xlsxwriter.readthedocs.io/) or control Excel via [XLwings](https://www.xlwings.org/).  Large portions of the code are unit tested.
