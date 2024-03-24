@@ -1,0 +1,1 @@
+A range of functions designed to pull in financial data.  Most functions will either output to excel via [xlsxwriter](https://xlsxwriter.readthedocs.io/) or control Excel via [https://www.xlwings.org/](https://www.xlwings.org/).
